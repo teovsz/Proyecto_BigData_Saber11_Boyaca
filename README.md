@@ -47,7 +47,7 @@ Los registros se filtraron para el departamento de Boyacá utilizando el código
 
 ```text
 Proyecto_BigData_Saber11_Boyaca/
-    Proyecto_BigData_Saber11_Final.ipynb
+    ProyectoFinalICFES.ipynb
     app.py
     requirements.txt
     README.md
@@ -79,7 +79,7 @@ La aplicación se abrirá en el navegador.
 
 ## Procesamiento de datos
 
-El archivo `Proyecto_BigData_Saber11_Final.ipynb` contiene el procesamiento realizado en Google Colab, incluyendo:
+El archivo `ProyectoFinalICFES.ipynb` contiene el procesamiento realizado en Google Colab, incluyendo:
 
 - Extracción de datos desde la API Socrata.
 - Diagnóstico de calidad.
